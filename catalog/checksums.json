@@ -12,6 +12,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "README.md",
+      "bytes": 3183,
+      "sha256": "85ccf28fd2f40b53d27f2ecb5f41c061fec09ba09035be5198382188d6ac3d58"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -43,8 +53,8 @@
     },
     {
       "path": "catalog/patch-recipes.json",
-      "bytes": 1597,
-      "sha256": "5ec84cdadc8ca00a8ee56f54a64d7b790f0d3095590a2a9824d43cc8af9f75cc"
+      "bytes": 1819,
+      "sha256": "e2a64db442c72b30a84b833946609e76ca2d1bacbfc8b74b5cf557a1342aa720"
     },
     {
       "path": "catalog/release-spec.json",
@@ -78,8 +88,8 @@
     },
     {
       "path": "downloads/electro-swing-inspired-midi.zip",
-      "bytes": 34836,
-      "sha256": "8a23c49de62abbc09bf792d8a12826360cab69096ef28f09e11b0a220c9677f0"
+      "bytes": 36378,
+      "sha256": "822cf6ddd78e985db3293fed0ece6927350c522c679915aed713983862bb0387"
     },
     {
       "path": "index.html",
@@ -233,13 +243,8 @@
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1052,
-      "sha256": "a04847901845a22c9afad42afe928c44c44e3564eb79b4f5fb0b161c448e624a"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3022,
-      "sha256": "11ea9c70c67e9464170aa9be28ec976eccfd70fd2fa73128c52ed9bc366ac819"
+      "bytes": 1135,
+      "sha256": "d5bfb358b302374d5669470dae97fe14ea19574df27653d5621709a1763a5e1c"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -253,13 +258,13 @@
     },
     {
       "path": "tools/build_footwork.py",
-      "bytes": 46672,
-      "sha256": "d746782d6acd6b1dcde4190527544e5b59765b73e6c01ec1f66af5e2ac057532"
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 47317,
-      "sha256": "c03364c461c23c884745fed0b76c6e917ef0d690b14bcf83bb5e30ce46008704"
+      "bytes": 47494,
+      "sha256": "d94746bf32efb84ea19b00f0ce2afdd356933c40b611b13b79d3395bed131f1d"
     },
     {
       "path": "tools/validate_release.py",
