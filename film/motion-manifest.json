@@ -1,0 +1,26 @@
+{
+  "title": "Electro Swing-Inspired",
+  "study": "es01",
+  "bpm": 124,
+  "source_audio": "preview/electro-swing-inspired-simple-synth-preview.mp3",
+  "source_audio_sha256": "d1bcaa7a291cea114f61c6c60e055952081a3dd6aaed983913d0347ef85aee85",
+  "source_midi": "midi/es01-button-step/es01-button-step-combined.mid",
+  "source_midi_sha256": "4af08ef6875fc01c1caf3f6780a9bcf8ea970449148d3d629dd8d9216f951b6a",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "d37179b04ae6cb467d3b44f5569259175019df374d1a3f0113ba746184ff5cb7",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "dc68dc5f4c9874c50b4328dc3ba12b06c8cdfb0620a3b4446b5f1cab891882bd",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "78e832b6dfad09d5c3cc2035be75e53a23485213a56dc214e9b0d831a39ba9ee",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
