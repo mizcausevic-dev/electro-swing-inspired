@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+es01,Button Step,pack-local equal-tempered pitch collection,D,124,4/4,480,32,61440,midi/es01-button-step/es01-button-step-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+es02,Brass Paper,pack-local equal-tempered pitch collection,F,124,4/4,480,32,61440,midi/es02-brass-paper/es02-brass-paper-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+es03,Side Door,pack-local equal-tempered pitch collection,G#,124,4/4,480,32,61440,midi/es03-side-door/es03-side-door-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+es04,Bright Return,pack-local equal-tempered pitch collection,D#,124,4/4,480,32,61440,midi/es04-bright-return/es04-bright-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
