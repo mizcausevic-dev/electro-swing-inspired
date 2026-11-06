@@ -146,11 +146,15 @@ def compose(study: dict, study_index: int, pattern: int) -> dict[str, list[dict]
             shift = 60 if section == "transformed_return" and ordinal == 2 else 0
             add(score, "sub_bass", base + offset + shift, study["bass"][chord_index] + (12 if ordinal == 2 else 0), 210, 84 + ordinal * 6)
         if section != "introduction" or bar >= 4:
-            for ordinal, offset in enumerate(study["motifs"]):
+            # Alternating short syncopated phrases leave room for the bass and
+            # answer voice without quoting a recorded swing melody.
+            swing_maps = ((160, 640, 1120, 1600), (320, 800, 1440), (0, 560, 1040, 1520), (240, 720, 1280, 1760))
+            offsets = swing_maps[(bar + study_index) % 4] if pattern == 19 else study["motifs"]
+            for ordinal, offset in enumerate(offsets):
                 if section == "contrast" and ordinal in (1, 4):
                     continue
-                pitch = study["motif"][(ordinal + bar + (1 if section == "transformed_return" else 0)) % len(study["motif"])]
-                duration = 150 if ordinal % 3 else 210
+                pitch = study["motif"][(ordinal + bar + (1 if section == "transformed_return" else 0) + (bar // 4 if pattern == 19 else 0)) % len(study["motif"])]
+                duration = min(150 if ordinal % 3 else 210, BAR_TICKS - offset - (45 if ordinal == 2 and section in ("statement", "transformed_return") else 0))
                 add(score, "principal_motif", base + offset, pitch, duration, 74 + (ordinal % 3) * 8)
                 if ordinal == 2 and section in ("statement", "transformed_return"):
                     add(score, "principal_motif", base + offset + duration, pitch + 2, 45, 52, True)

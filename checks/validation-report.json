@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-04T23:37:41.007278+00:00",
+  "run_time_utc": "2026-11-06T00:11:09.015579+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -26,14 +26,14 @@
     },
     {
       "path": "midi/es01-button-step/es01-button-step-combined.mid",
-      "bytes": 8395,
-      "sha256": "4af08ef6875fc01c1caf3f6780a9bcf8ea970449148d3d629dd8d9216f951b6a",
+      "bytes": 7920,
+      "sha256": "10e51bb7f6e0ef4f25a1535acd2160080ef390b220f0cecdea56254af1154406",
       "errors": []
     },
     {
       "path": "midi/es01-button-step/principal_motif.mid",
-      "bytes": 1633,
-      "sha256": "de46548c753c02ba5dbdb3a61174f2a532364608bdf67c2b39fef1d249197385",
+      "bytes": 1158,
+      "sha256": "d1f7972821552c41f8dab0eacb1f50d3dc1540ae198d4a8fa0fc5a6deece34f6",
       "errors": []
     },
     {
@@ -68,14 +68,14 @@
     },
     {
       "path": "midi/es02-brass-paper/es02-brass-paper-combined.mid",
-      "bytes": 8394,
-      "sha256": "d5fd9267bc8c58fc9032928bd798975754de3caaaf636068cea68a51b878d33f",
+      "bytes": 7920,
+      "sha256": "94a93b95135121e38d2bc8ebb1b604b40078f2035d5f18c60f9254ea7e922cfd",
       "errors": []
     },
     {
       "path": "midi/es02-brass-paper/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "2da41242f4f94de7c618b75f0f2f4ae865e034d81f94993c73cb403ec2437c54",
+      "bytes": 1158,
+      "sha256": "55a7dea8620bcdf8843946a916d04e4e32f9a2b71f6d18c92f834cd5b39d0e90",
       "errors": []
     },
     {
@@ -110,14 +110,14 @@
     },
     {
       "path": "midi/es03-side-door/es03-side-door-combined.mid",
-      "bytes": 8394,
-      "sha256": "e9a58f53e0f6d1c491b04cb4bf9328f64f943601327c1f46d7221474ec6d01e4",
+      "bytes": 7921,
+      "sha256": "8c8ac5c320df7996ed3e9814ae0ebf8428a6ff6bdad92be1b248b23fa449ff25",
       "errors": []
     },
     {
       "path": "midi/es03-side-door/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "9482a97ad5c4405bf66fdbec49de2209a9b1cb6caf4a523a9fe2b54554673f29",
+      "bytes": 1159,
+      "sha256": "6145212c8b9d3bbcf9846918731f7babe5d222766fd01055acf820a6e14ce67b",
       "errors": []
     },
     {
@@ -152,14 +152,14 @@
     },
     {
       "path": "midi/es04-bright-return/es04-bright-return-combined.mid",
-      "bytes": 8395,
-      "sha256": "089d3bd2658b0b73ccda4b1e36916909bf754ca221f1bfe571ec78b8dc3fcde0",
+      "bytes": 7921,
+      "sha256": "5e2a839cbd99d781a3d6a28ef99d5f4e3b43729c20c0631edb8a95152222f7df",
       "errors": []
     },
     {
       "path": "midi/es04-bright-return/principal_motif.mid",
-      "bytes": 1633,
-      "sha256": "4b395836be0da695af3245224318e2c82f91cd1d747cdad497fd87c6c6c95ae9",
+      "bytes": 1159,
+      "sha256": "3e3f4a58c5c7bcc977cf6494578a1a5ab4a8ff37584536ffcf6bcfde841bbcf9",
       "errors": []
     },
     {

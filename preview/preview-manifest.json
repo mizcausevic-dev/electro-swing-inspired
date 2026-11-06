@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/electro-swing-inspired-simple-synth-preview.mp3",
-  "preview_sha256": "d1bcaa7a291cea114f61c6c60e055952081a3dd6aaed983913d0347ef85aee85",
+  "preview_sha256": "d1a9d75221385da1afb7c6807d3b371ecd8f6facb5f848bc28f9380eabaed9a0",
   "source_midi_path": "midi/es01-button-step/es01-button-step-combined.mid",
-  "source_midi_sha256": "4af08ef6875fc01c1caf3f6780a9bcf8ea970449148d3d629dd8d9216f951b6a",
+  "source_midi_sha256": "10e51bb7f6e0ef4f25a1535acd2160080ef390b220f0cecdea56254af1154406",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 61.935
   },
   "measurement": {
-    "sample_peak": 0.170804,
+    "sample_peak": 0.160332,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
