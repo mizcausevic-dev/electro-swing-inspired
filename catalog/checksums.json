@@ -78,8 +78,8 @@
     },
     {
       "path": "downloads/electro-swing-inspired-midi.zip",
-      "bytes": 34502,
-      "sha256": "391d8ddd812a70b5c992bb8b2fa6523b55cfdf5b6a58836c5faf251a6f397f87"
+      "bytes": 36927,
+      "sha256": "8767aaee213c6bef5e4be502e67c6c9ef3ed7c1fd9b07704c2520c849554039e"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -113,8 +113,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10346,
-      "sha256": "3e8943ba367b6201e8c064bf59be30d98c8ab9e2d72635d78c1798b6f3bf12e5"
+      "bytes": 10536,
+      "sha256": "8449362070acb7e658db4836e8d38c2eff3f7b83a2907edd15ec68c9bf80fee7"
     },
     {
       "path": "midi/es01-button-step/chord_pulse.mid",
@@ -257,6 +257,11 @@
       "sha256": "a433832af18a449d1d6736cd1e78d7f7d7fdfb38196809b9b05d4a2af5d57c1e"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 793,
       "sha256": "a2c8b34356a3b356343b7a6cfe3199250962383046f59b361011c83f34ba6ae5"
@@ -273,8 +278,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3401,
-      "sha256": "78ed5eb26d0ce3c697443e9720897b5c70485c25c416e14a24217e1c87400056"
+      "bytes": 3516,
+      "sha256": "29b3901167ebfce6f61a9bf74be3a2e8910adc94611144faf00102f1ababa696"
     },
     {
       "path": "RENDERER-METADATA-CORRECTION.md",
